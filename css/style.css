@@ -130,6 +130,11 @@ img {
   -ms-transform: skewY(-2deg);
 }
 
+/* Stats */
+.stats {
+  padding-top: 100px;
+}
+
 /*  Utilities */
 .container {
   max-width: 1100px;
